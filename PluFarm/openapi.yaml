@@ -1,0 +1,1 @@
+# Este arquivo é uma especificação formal que descreve a interface do seu plugin. Ele detalha as operações que seu plugin pode executar, as entradas necessárias e as saídas esperadas. Está escrito no formato OpenAPI Specification, que é essencial para que o GPT-4 saiba como se comunicar com seu plugin.
