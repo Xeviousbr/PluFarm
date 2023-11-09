@@ -1,1 +1,31 @@
-# Este arquivo é uma especificação formal que descreve a interface do seu plugin. Ele detalha as operações que seu plugin pode executar, as entradas necessárias e as saídas esperadas. Está escrito no formato OpenAPI Specification, que é essencial para que o GPT-4 saiba como se comunicar com seu plugin.
+openapi: 3.0.0
+info:
+  title: PluFarm
+  version: "1.0.0"
+  description: Este plugin permite comparar dois arquivos PDF.
+paths:
+  /compare_pdfs:
+    post:
+      summary: Compara dois PDFs contendo leis.
+      requestBody:
+        content:
+          multipart/form-data:
+            schema:
+              type: object
+              properties:
+                pdf1:
+                  type: string
+                  format: binary
+                pdf2:
+                  type: string
+                  format: binary
+      responses:
+        '200':
+          description: Compara dois PDFs contendo leis.
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string

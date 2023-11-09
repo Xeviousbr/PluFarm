@@ -1,1 +1,12 @@
-//Este arquivo de configuração contém metadados sobre o seu plugin, como nome, versão e descrição. É crucial para o GPT-4 reconhecer e compreender o propósito do seu plugin.
+{
+  "name": "PluFarm",
+  "version": "1.0.0",
+  "description": "Compara dois PDFs contendo leis.",
+  "endpoints": {
+    "comparePdfs": {
+      "url": "http://localhost:5000/compare_pdfs",
+      "method": "POST",
+      "description": "Compara dois PDFs contendo leis."
+    }
+  }
+}
