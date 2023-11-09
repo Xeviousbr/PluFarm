@@ -1,0 +1,209 @@
+Agência Nacional de Vigilância Sanitária
+www.anvisa.gov.br
+Consulta Pública n° 1.206, de 2 de outubro de 2023
+D.O.U de 4/10/2023
+A Diretoria Colegiada da Agência Nacional de Vigilância Sanitária, no uso das 
+atribuições que lhe confere o art. 15, III e IV, aliado ao art. 7º, III e IV da Lei nº 9.782, de 26 de 
+janeiro de 1999, e ao art. 187, III, § 1º do Regimento Interno aprovado pela Resolução de 
+Diretoria Colegiada – RDC nº 585, de 10 de dezembro de 2021, resolve submeter à consulta 
+pública, para comentários e sugestões do público em geral, proposta de ato normativo, 
+conforme deliberado em reunião realizada em 27 de setembro de 2023, e eu, DiretorPresidente substituto, determino a sua publicação.
+Art. 1º Fica estabelecido o prazo de 45 (quarenta e cinco) dias para envio de 
+comentários e sugestões ao texto da Proposta de Consulta Pública para elaborar Resolução de 
+Diretoria Colegiada - RDC que dispõe complementarmente sobre o registro de biossimilares 
+por meio da Via de desenvolvimento por Comparabilidade e revogar o capítulo V da Resolução 
+de Diretoria Colegiada -RDC 55/2010, conforme Anexo.
+Parágrafo único. O prazo de que trata este artigo terá início 7 (sete) dias após a data de 
+publicação desta Consulta Pública no Diário Oficial da União.
+Art. 2º A proposta de ato normativo estará disponível na íntegra no portal da Anvisa na 
+internet e as sugestões deverão ser enviadas eletronicamente por meio do preenchimento de 
+formulário eletrônico específico, disponível no 
+endereço: https://pesquisa.anvisa.gov.br/index.php/881397?lang=pt-BR
+§1º Com exceção dos dados pessoais informados pelos participantes, todas as 
+contribuições recebidas são consideradas públicas e de livre acesso aos interessados, 
+conforme previsto na Lei nº 12.527, de 18 de novembro de 2011 e estarão disponíveis após o 
+encerramento da consulta pública, em sua página específica, no campo “Documentos 
+Relacionados”.
+§2º Ao término do preenchimento e envio do formulário eletrônico será disponibilizado 
+número de identificação do participante (ID) que poderá ser utilizado pelo usuário para localizar 
+a sua própria contribuição, sendo dispensado o envio postal ou protocolo presencial de 
+documentos em meio físico junto à Agência.
+§3º Em caso de limitação de acesso do cidadão a recursos informatizados será permitido 
+o envio e recebimento de sugestões por escrito, em meio físico, durante o prazo de consulta, 
+para o seguinte endereço: Agência Nacional de Vigilância Sanitária/GGBIO, SIA trecho 5, Área 
+Especial 57, Brasília-DF, CEP 71.205-050.
+§4º Excepcionalmente, contribuições internacionais poderão ser encaminhadas em meio 
+físico, para o seguinte endereço: Agência Nacional de Vigilância Sanitária/Assessoria de 
+Assuntos Internacionais – AINTE, SIA trecho 5, Área Especial 57, Brasília-DF, CEP 71.205-
+050.
+Art. 3º Findo o prazo estipulado no art. 1º, a Agência Nacional de Vigilância Sanitária 
+promoverá a análise das contribuições e, ao final, publicará o resultado da consulta pública no 
+portal da Agência.
+Parágrafo único. A Agência poderá, conforme necessidade e razões de conveniência e 
+oportunidade, articular-se com órgãos e entidades envolvidos com o assunto, bem como 
+aqueles que tenham manifestado interesse na matéria, para subsidiar posteriores discussões 
+técnicas e a deliberação final da Diretoria Colegiada.
+RÔMISON RODRIGUES MOTA
+Diretor-Presidente Substituto
+ANEXO
+PROPOSTA EM CONSULTA PÚBLICA
+Processo nº: 25351.931217/2022-28
+Assunto: Proposta de Consulta Pública para elaborar Resolução de Diretoria Colegiada - RDC 
+que dispõe complementarmente sobre o registro de biossimilares por meio da Via de 
+desenvolvimento por Comparabilidade e revogar o capítulo V da Resolução de Diretoria 
+Colegiada - RDC 55/2010
+Agenda Regulatória 2021-2023: Não é projeto da Agenda
+Área responsável: GGBIO
+Diretor Relator: Antonio Barra Torres
+AGÊNCIA NACIONAL DE VIGILÂNCIA SANITÁRIA
+MINUTA DE RESOLUÇÃO DE DIRETORIA COLEGIADA - RDC
+RESOLUÇÃO DE DIRETORIA COLEGIADA - RDC Nº [Nº], DE [DIA] DE [MÊS POR 
+EXTENSO] DE [ANO]
+Dispõe complementarmente sobre o registro de 
+biossimilares por meio da Via de desenvolvimento por 
+Comparabilidade.
+A Diretoria Colegiada da Agência Nacional de Vigilância Sanitária, no uso da atribuição que 
+lhe confere o art. 15, III e IV, aliado ao art. 7º, III, e IV, da Lei nº 9.782, de 26 de janeiro de 
+1999, e ao art. 53, VI, §§ 1º e 3º do Regimento Interno aprovado pela Resolução de Diretoria 
+Colegiada – RDC n° 255, de 10 de dezembro de 2018, resolve adotar a seguinte Resolução 
+de Diretoria Colegiada, conforme deliberado em reunião realizada em XX de XX de 201..., e 
+eu, Diretor-Presidente, determino a sua publicação.
+CAPÍTULO I
+DISPOSIÇÕES INICIAIS
+Art. 1º Esta Resolução possui o objetivo de estabelecer os requisitos complementares aos 
+da RDC nº 55, de 16 de dezembro de 2010, para o registro de biossimilares no país, visando 
+garantir a qualidade, segurança e eficácia destes produtos.
+Art. 2º Para fins desta Resolução, aplicam-se as seguintes definições complementares:
+I - autoridade Reguladora Estrangeira Equivalente (AREE): autoridade reguladora 
+estrangeira ou entidade internacional que possua práticas regulatórias alinhadas às da 
+Anvisa, responsável por garantir que os produtos autorizados para distribuição foram 
+adequadamente avaliados e atendem a padrões reconhecidos de qualidade, segurança e 
+eficácia;
+II - biossimilar: medicamento biológico que contém substância ativa altamente similar à de 
+um medicamento biológico inovador, já registrado pela Anvisa (produto biológico 
+comparador ou de referência), cuja similaridade em termos de qualidade, atividade biológica, 
+segurança e eficácia foi estabelecida com base em uma extensa avaliação de 
+comparabilidade;
+III – estudo ponte: é o estudo analítico e funcional que compara a estrutura e função do 
+medicamento comparador registrado na Anvisa e o comparador adquirido em mercado 
+internacional que apresenta locais de fabricação distintos do comparador aprovado junto à 
+Anvisa, podendo incluir estudo de PK/PD quando evidências adicionais de comparabilidade 
+forem necessárias.
+CAPÍTULO II
+DO REGISTRO DE BIOSSIMILARES PELA VIA DE DESENVOLVIMENTO POR 
+COMPARABILIDADE 
+SEÇÃO I
+DOCUMENTAÇÃO PARA O REGISTRO DE BIOSSIMILARES
+Art. 3º No ato do protocolo de pedido de registro do biossimilar pela via de desenvolvimento 
+por comparabilidade, além do disposto na RDC nº 55/2010 e suas atualizações, a empresa 
+solicitante deverá apresentar os seguintes documentos:
+I – Relatório com dados sobre o candidato a biossimilar, sendo obrigatórias as seguintes 
+informações:
+a) descrição das técnicas analíticas utilizadas para detectar diferenças potenciais entre o 
+candidato a biossimilar e o medicamento biológico comparador; e
+b) dados da caracterização biológica e físico-química relacionados aos atributos de 
+qualidade do candidato a biossimilar;
+II – declaração indicando o nome do medicamento biológico comparador e os locais de 
+fabricação da substância ativa e do produto terminado;
+III – declaração com comprovação de que o mesmo medicamento biológico comparador foi 
+utilizado ao longo dos estudos de desenvolvimento do candidato a biossimilar ;
+IV – informações sobre o sistema de expressão utilizado para a fabricação do candidato a 
+biossimilar e medicamento biológico comparador;
+V - comparação das moléculas do candidato a biossimilar e medicamento biológico 
+comparador;
+VI – relatórios dos resultados das análises comparativas entre os princípios ativos sempre 
+que necessário;
+VII – relatório contendo descrição detalhada das etapas do exercício de comparabilidade, 
+com indicação da capacidade de detectar diferenças nos atributos de qualidade entre o 
+candidato a biossimilar e o medicamento biológico comparador;
+VIII – relatórios dos estudos de estabilidade comparativos, gerados em condições 
+aceleradas e de estresse, de acordo com a legislação vigente;
+IX – relatório contendo descrição das diferenças observadas no perfil de pureza e impureza 
+entre o candidato a biossimilar e o medicamento biológico comparador;
+X – avaliação dos contaminantes e impurezas identificados no candidato a biossimilar, com 
+discussão do potencial impacto na qualidade, segurança e eficácia;
+XI – caracterização analítica do candidato a biossimilar e do medicamento biológico 
+comparador;
+XII – resultados dos ensaios biológicos comparativos necessários para a determinação do 
+grau de comparabilidade; e
+XIII - relatório conclusivo com demonstração da comparabilidade, contendo informações 
+suficientes para predizer se as diferenças detectadas nos atributos de qualidade resultam 
+em impactos adversos na segurança e eficácia do candidato a biossimilar.
+§ 1º Caso seja necessário isolar a substância ativa do medicamento biológico comparador 
+utilizado no exercício de comparabilidade, a empresa solicitante do registro deve apresentar 
+estudos que demonstrem que o princípio ativo não foi alterado pelo processo de isolamento.
+§ 2º Um candidato a biossimilar não pode ser considerado comparável quando os 
+procedimentos analíticos utilizados não forem suficientes para apontar diferenças relevantes, 
+que possam impactar a segurança e eficácia do produto e/ou a relação entre os atributos de 
+qualidade específicos, segurança e eficácia não estiver estabelecida.
+§ 3º Todos os estudos do programa de desenvolvimento do candidato a biossimilar devem 
+ser de natureza comparativa.
+Art. 4º. O medicamento biológico a ser utilizado como comparador no exercício de 
+comparabilidade deverá ser o produto registrado na Anvisa, cujo registro tenha sido 
+embasado por um dossiê completo.
+§1º O mesmo medicamento biológico comparador deverá ser utilizado em todas as etapas 
+do exercício de comparabilidade. 
+§2º Pode ser utilizado o medicamento biológico comparador adquirido em mercado 
+internacional em países regulados por uma por das AREE reconhecidas pela Anvisa, desde 
+que seja comprovado que os fabricantes da substância ativa e do produto terminado são os
+mesmos do medicamento registrado no país. .
+§3º Caso o medicamento comparador adquirido no mercado internacional possua diferentes 
+locais de fabricação da substância ativa ou do produto terminado em relação ao produto 
+registrado junto à Anvisa, deve ser realizado estudo ponte demonstrando representatividade 
+com relação ao produto efetivamente registrado em território nacional.
+Art. 5º Em caso de comprovada indisponibilidade de medicamento biológico no mercado 
+nacional e internacional que possa ser usado como comparador, a eleição do medicamento 
+a ser utilizado no exercício de comparabilidade deverá ser previamente discutida e anuída 
+pela Anvisa.
+Parágrafo único. Na situação prevista no caput, será candidato a comparador o 
+medicamento biológico novo registrado por AREE para medicamentos biológicos, definida 
+em resoluções específicas.
+SEÇÃO II
+INFORMAÇÃO NÃO-CLÍNICA E CLÍNICA
+Art. 6º. No ato do protocolo do pedido de registro do candidato a biossimilar, a empresa 
+solicitante deverá apresentar os relatórios completos dos estudos não-clínicos e clínicos.
+Parágrafo único. Os estudos não clínicos e clínicos devem ser comparativos e desenhados 
+para detectar diferenças significativas entre o candidato a biossimilar e o medicamento 
+biológico comparador.
+Art. 7º. A empresa solicitante deverá apresentar os relatórios dos seguintes estudos nãoclínicos in-vivo:
+I – estudos de farmacodinâmica relevantes para as indicações terapêuticas pretendidas; e
+II – estudos de toxicidade cumulativa (dose-repetida), incluindo a caracterização dos 
+parâmetros da cinética de toxicidade, conduzidos em espécie(s) relevante(s).
+Parágrafo único. Os estudos não clínicos em animais podem ser dispensados mediante 
+justificativa técnico-científica a ser avaliada pela Anvisa. O racional sobre a isenção deve 
+baseado em guias de medicamentos biológicos publicados por AREE.
+Art. 8º. A empresa solicitante deverá apresentar os protocolos e relatórios dos seguintes 
+estudos clínicos:
+I – estudos de farmacocinética;
+II – estudos de farmacodinâmica; e
+III – estudos de imunogenicidade, segurança e eficácia clínica.
+§ 1º Alguns estudos clínicos e/ou parâmetros da avalição clínica comparativa podem ser 
+dispensados de acordo com as características do produto candidato a biossimilar e mediante 
+justificativa técnico-científica a ser avaliada pela Anvisa. As discussões sobre a isenção 
+devem ser baseadas em guias de produtos biológicos publicados por AREE.
+§ 2º O desenho e as margens de comparabilidade dos estudos de segurança e eficácia 
+previstos no inciso III deste artigo devem ser especificados e respaldados estatística e 
+clinicamente.
+§ 3º Quando disponíveis, os resultados de estudos fase IV deverão ser apresentados.
+Art. 9º. A extrapolação de dados de segurança e eficácia para outras indicações terapêuticas 
+dos biossimilares registrados pela via de desenvolvimento por comparabilidade será 
+estabelecida por meio de guias específicos, devendo ser utilizados os guias publicados por 
+AREE devidamente reconhecida pela Anvisa para medicamentos biológicos na ausência de
+guias publicados pela Anvisa.
+§ 1º Os casos previstos no caput deste artigo serão possíveis depois de demonstrada a 
+comparabilidade em termos de segurança e eficácia entre os produtos.
+§ 2º O modelo do teste clínico utilizado para a comprovação da segurança e eficácia deve 
+ser capaz de detectar diferenças potenciais, se existentes, entre os produtos;
+§ 3º O mecanismo de ação e receptores envolvidos para as diferentes indicações 
+pretendidas devem ser os mesmos.
+§ 4º A segurança e a imunogenicidade do candidato a biossimilar devem estar 
+suficientemente caracterizadas.
+CAPÍTULO III
+DISPOSIÇÕES FINAIS
+Art. 10. A Anvisa poderá, a qualquer momento e a seu critério, exigir provas adicionais de 
+identidade e qualidade dos componentes do medicamento biossimilar, e/ou requerer estudos 
+para comprovação de eficácia e segurança clínica, caso ocorram fatos que deem ensejo a 
+avaliações complementares, mesmo após a concessão do registro.
+Art. 11 Ficam revogados os artigos 19, 27 e o Capítulo V da Resolução RDC nº 55, de 2010. 
+Art. 12 Esta Resolução entra em vigor na data de sua publicação.
+DIRETOR PRESIDENTE
